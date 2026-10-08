@@ -1,0 +1,26 @@
+# Local Python environments and caches
+.venv/
+.build-venv/
+.local-bin/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Build products and temporary files
+build/
+dist/
+work/
+assets/*.iconset/
+
+# Downloaded third-party executables
+vendor/*
+!vendor/.gitkeep
+
+# Local settings, credentials and downloaded media
+.env
+.env.*
+*.pem
+*.key
+*cookies*.txt
+*.log
+Downloaded/

@@ -1,0 +1,2 @@
+PySide6-Essentials==6.8.3 --hash=sha256:aa56c135db924ecfaf50088baf32f737d28027419ca5fee67c0c7141b29184e3
+shiboken6==6.8.3 --hash=sha256:483efc7dd53c69147b8a8ade71f7619c79ffc683efcb1dc4f4cb6c40bb23d29b
